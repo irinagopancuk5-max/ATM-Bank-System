@@ -1,24 +1,12 @@
-# ATM System Simulation
+Simple ATM banking system simulation.
 
-Simple banking system simulation in C++.
-
----
-
-## ⚙ Features
+## Features
 - Check balance
 - Deposit money
 - Withdraw money
-- Prevent negative balance
+- Balance protection
 
----
-
-## 🎯 What I learned
+## What I learned
 - Variables
 - Conditions
 - Program flow
-- Real-life logic
-
----
-
-## 🚀 Status
-Beginner project
